@@ -1,2 +1,2 @@
 # Daniel-Gillett-idk
-read project description and SFZ/text file for instructions on setting up the bot
+To use the bot, place the two files (Elektronischebot.sfz and piano.wav) into the same folder. Next, download the music software Sforzando. Open it as a standalone software, then drag the SFZ/text file into the software. Once the bot has been configured, press and hold middle C (the piano note directly in the centre of the on-screen keyboard) and the music should begin. Make sure you read the instructions in the code inside the SFZ/text file so that the bot has been set up properly regarding polyphony, ADSR, pitch, etc. To make the bot play automatically or to have several bots run together, place Sforzando into a DAW as a software plug-in. Have fun!
